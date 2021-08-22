@@ -2,7 +2,7 @@
 100% Flutter App :) .
 E-Commerce App "Shop App with Postman Shop Api".
 This app is developed using Flutter Framework.
-State mangment using Bloc Cubit.
+State management using Bloc Cubit.
 flutter Dio package to work with apis.
 MyShop App is working in cooperation with Postman Apis.
 
