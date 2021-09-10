@@ -1,10 +1,15 @@
 # post_man_api
+# The idea of the app is dealing with post man apis
 100% Flutter App :) .
 E-Commerce App "Shop App with Postman Shop Api".
 This app is developed using Flutter Framework.
 State management using Bloc Cubit.
 flutter Dio package to work with apis.
 MyShop App is working in cooperation with Postman Apis.
+
+# resources
+Postman Link : https://www.postman.com/collections/3223d639447a8524e38f
+you can use it by **importing** a **link** in postman
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
